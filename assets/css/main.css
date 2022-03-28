@@ -1953,6 +1953,10 @@ input, select, textarea {
 
 /* Wrapper */
 
+.sec1 {
+    background: #ebebeb !important;
+}
+
 	.wrapper {
 		position: relative;
 		padding: 6em 0 9em 0;
@@ -2246,6 +2250,11 @@ input, select, textarea {
 
 /* Features */
 
+#features {
+    background: #fff;
+    border: 1px solid #9d9d9d;
+    padding: 10px;
+}
 	#features header.style1 {
 		padding-bottom: 5em;
 	}
